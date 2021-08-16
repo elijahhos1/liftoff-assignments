@@ -8,12 +8,16 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+https://docs.google.com/drawings/d/1B18q-LBbEpZMiFjwf7xprjUKHmicNchw8geCUFEvUZk/edit?usp=sharing
+
+https://docs.google.com/drawings/d/1VHf7WNfgDSEvCr32dnQ_1Kq0iJUCZ8N3RhnFuLpUKb8/edit
+
+https://docs.google.com/drawings/d/10wdWoqieyv-g_UfqlVWKFR4Jl3XWTR9O6qH7-81oGIA/edit
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/b/cw3xqQ13/liftoffaug2021a
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/LaunchCodeLiftoffProjects/gab-group-a
