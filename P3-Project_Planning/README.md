@@ -8,16 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://docs.google.com/drawings/d/1B18q-LBbEpZMiFjwf7xprjUKHmicNchw8geCUFEvUZk/edit?usp=sharing
-
-https://docs.google.com/drawings/d/1VHf7WNfgDSEvCr32dnQ_1Kq0iJUCZ8N3RhnFuLpUKb8/edit
-
-https://docs.google.com/drawings/d/10wdWoqieyv-g_UfqlVWKFR4Jl3XWTR9O6qH7-81oGIA/edit
+https://drive.google.com/file/d/1pxmAUVAd82qUbVWjZ_pCUO1EHncpck-8/view?usp=sharing
 
 ### Project Tracker
 
-https://trello.com/b/cw3xqQ13/liftoffaug2021a
+https://trello.com/b/GIMZuNlJ/onefeed
 
 ### Project Repo Link
 
-https://github.com/LaunchCodeLiftoffProjects/gab-group-a
