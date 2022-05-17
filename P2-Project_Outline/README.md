@@ -1,47 +1,26 @@
-# Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
+Overview:
 
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+One Feed is a social media website that aims to condense and simplify the annoyance and clutter of modern day social media. We aim to do this by creating a website that will track users' social media accounts and combine them into 'one feed' on a single website page. The idea came from being overwhelmed by the continuous emergence of social media platforms that are essentially the same.
 
-## Submission Instructions
+Features:
 
-### Overview
+User Login / Logout
+View Posts by Reverse Chronological Order
+Search / Filter Posts
+Receive Notifications
+Create / Delete Posts
+React / Engage with Social Media specific features
 
-"Helping Hands" is an idea that will change how you give away items you don't need.
-Instead of leaving your old dresser on your curb, you can now list it online, free 
-for the taking.
+Technologies:
 
-As well as listing your own items, you can search for others'. Users of this website will
-find it incredibly easy to decrease the clutter in their house and can reduce their expenses
-by acquiring what they need for free. 
+MySQL
+Angular
+APIs
+JS
+Java
 
-### Features
+What you’ll have to learn:
 
-1. Account creation - An account will allow you to list your haves and needs: items you are
-    willing to give away and items you want.
-   
-2. Search - The search functionality will show users that have what you need and need what
-    you have. Exact ideas for the search functionality have not yet been finalized; they
-    may be changed later.
-   
-3. Profile view - Allows users to view other users' profiles. Lists haves and needs as well
-    as their location. More features may be added to this section as we develop the site.
-   
-4. Settings - Not sure what functionality this will have, although one that comes to mind 
-    is a distance limit.
-   
-### Technologies
+Most of the learning will be in regards to API, however revisiting angular could prove to be a re-learning experience as it was used briefly in the first unit of LaunchCode 101.
 
-Not finalized, but:
-
-Java (certain)
-React (Our group members are working in React right now, so most likely)
-MySQL (most likely)
-
-### What I'll Have to Learn
-
-Using Java and React together.
-
-### Project Tracker
-https://trello.com/b/cw3xqQ13/liftoffaug2021a
+Project Tracker: https://trello.com/b/GIMZuNlJ/onefeed
